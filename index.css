@@ -1,0 +1,7 @@
+body{
+    background-color: black;
+}
+.cards{
+    display: flex;
+    justify-content: center;
+}
